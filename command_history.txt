@@ -1,0 +1,295 @@
+    1  echo "hello linux"
+    2  ssh -i [200~
+    3  sudo passwd ec2-user
+    4  ssh ec2-user@65.0.138.56
+    5  sudo su - sruthi_aws_1
+    6  sudo su - sruthi
+    7  sudo su - sruthi_aws_1
+    8  sudo adduser sruthi
+    9  sudo passwd sruthi
+   10  asdfghjk
+   11  sudo passwd sruthi
+   12  sudo su - sruthi
+   13  cat ~/.ssh/authorized_keys
+   14  ssh sruthi@65.0.138.56
+   15  ssh sruthi@3.110.55.48
+   16  sudo nano /etc/ssh/sshd_config
+   17  sudo systemctl restart sshd
+   18  sudo nano /etc/ssh/sshd_config
+   19  nano /etc/ssh/sshd_config
+   20  ssh -i /home/sruthi/sruthi_aws.pem sruthi@3.110.55.48
+   21  sudo apt-get update
+   22  sudo apt-get install autossh
+   23  exit
+   24  sudo systemctl restart autossh
+   25  sudo systemctl status autossh
+   26  sudo systemctl restart autossh
+   27  ssh ec2-user@65.0.138.56
+   28  sudo systemctl status autossh
+   29  exit
+   30  sudo vi /etc/ssh/sshd_config
+   31  sudo su - sruthi
+   32  sudo su - sruthi
+   33  ls
+   34  ll
+   35  cd .ssh
+   36  ls
+   37  vi authorized_keys
+   38  curl https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   39  history
+   40  ls
+   41  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   42  ls
+   43  curl https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   44  ls
+   45  curl https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   46  ls -l
+   47  ls -lh
+   48  sudo yum localinstall oracle-database-xe-21c-1.0-1.018.x86_64.rpm
+   49  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   50  ls
+   51  sudo yum install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   52  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   53  sudo yum install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --nobest
+   54  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --nobest
+   55  sudo yum install https://vault.centos.org/8.3.2011/BaseOS/x86_64/os/Packages/compat-openssl10-1:1.0.2o-3.el8.x86_64.rpm
+   56  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --nobest
+   57  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   58  curl https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   59  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   60  ls
+   61  sudo yum install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   62  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+   63  wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html#license-lightbox
+   64  sudo yum install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   65  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   66  wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html#license-lightbox
+   67  ls
+   68  rm oracle21c-linux-downloads.html
+   69  ls
+   70  rm oracle21c-linux-downloads.html.1
+   71  wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html#license-lightbox
+   72  ls
+   73  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   74  ls
+   75  wget 
+   76  https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/linux/oracle21c/oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+   77  wget https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/linux/oracle21c/oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+   78  ls
+   79  mv 'signon?nexturl=https:%2F%2Fdownload.oracle.com%2Fotn%2Flinux%2Foracle21c%2Foracle-database-ee-21c-1.0-1.ol8.x86_64.rpm' oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+   80  ls
+   81  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   82  sudo yum localinstall oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+   83  sudo yum localinstall oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm -y
+   84  ls
+   85  rm oracle-database-ee-21c-1.0-1.ol8.x86_64.rpm
+   86  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   87  ls
+   88  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+   89  rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   90  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   91  ls
+   92  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+   93  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+   94  ls
+   95  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+   96  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+   97  sudo yum install compat-openssl10 -y
+   98  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+   99  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+  100  sudo yum install oracle-epel-release-el8 -y
+  101  sudo yum-config-manager --enable ol8_baseos_latest
+  102  sudo yum-config-manager --enable ol8_appstream
+  103  sudo yum install oracle-epel-release-el8 -y
+  104  sudo yum-config-manager --enable ol8_baseos_latest
+  105  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  106  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  107  clear
+  108  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  109  sudo yum localinstall compat-openssl10-1.0.2k-19.el7.x86_64.rpm -y
+  110  wget http://mirror.centos.org/centos/7/os/x86_64/Packages/compat-openssl10-1.0.2k-19.el7.x86_64.rpm
+  111  sudo yum localinstall compat-openssl10-1.0.2k-19.el7.x86_64.rpm -y
+  112  wget http://mirror.centos.org/centos/7/os/x86_64/Packages/compat-openssl10-1.0.2k-19.el7.x86_64.rpm
+  113  ls
+  114  rm oracle21c-linux-downloads.html
+  115  ls
+  116  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  117  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  118  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  119  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.1 -y
+  120  ls
+  121  rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.1
+  122  rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  123  ls
+  124  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  125  ls
+  126  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  127  ls
+  128  rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm.1
+  129  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  130  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y --nobest
+  131  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --nobest
+  132  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm --skip-broken
+  133  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  134  ls
+  135  free -k
+  136  sudo yum install -y compat-openssl10
+  137  wget https://vault.centos.org/8.5.2111/BaseOS/x86_64/os/Packages/compat-openssl10-1.0.2k-21.el8.x86_64.rpm
+  138  wget https://repo.almalinux.org/almalinux/8/BaseOS/x86_64/os/Packages/compat-openssl10-1.0.2k-19.el8.x86_64.rpm
+  139  sudo yum update -y
+  140  sudo yum install -y compat-openssl10
+  141  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  142  sudo yum install oraclelinux-release-el8
+  143  sudo yum install -y https://rpms.remirepo.net/enterprise/remi-release-8.rpm
+  144  sudo yum install epel-release
+  145  sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+  146  sudo yum install -y https://rpms.remirepo.net/enterprise/remi-release-8.rpm
+  147  sudo nano /etc/yum.conf
+  148  sudo yum install -y https://rpms.remirepo.net/enterprise/remi-release-8.rpm --nobest
+  149  sudo nano /etc/yum.conf
+  150  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  151  free -g
+  152  free -m
+  153  df -ah
+  154  tep
+  155  top
+  156  lscpu
+  157  sudo yum localinstall compat-openssl10-1.0.2k-19.el7.x86_64.rpm -y
+  158  clear
+  159  history
+  160   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
+  161   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  162  sudo /etc/init.d/oracle-xe-21c configure
+  163  exit
+  164  sudo /etc/init.d/oracle-xe-21c configure
+  165  ls
+  166   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  167  rm  oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  168   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  169  wget file:///C:/Users/sruthi.kairam/Downloads/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  170  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  171   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  172  ls
+  173  rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  174  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  175  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  176  sudo /etc/init.d/oracle-xe-21c configure
+  177  ls /etc/init.d/
+  178  sudo /etc/init.d/oracle-xe-21c configure
+  179  ls /etc/init.d/
+  180  sudo /etc/init.d/oracle-database-preinstall-21c-firstboot confifure
+  181  sudo /etc/init.d/oracle-database-preinstall-21c-firstboot configure
+  182  sudo /etc/init.d/oracle-database-preinstall-21c-firstboot confifure
+  183  exit
+  184  sudo /etc/init.d/oracle-xe-21c configure
+  185  exit
+  186  sudo /etc/init.d/oracle-xe-21c configure
+  187  sudo yum localinstall compat-openssl10-1.0.2k-21.el8.x86_64.rpm
+  188  ls -l compat-openssl10-1.0.2k-21.el8.x86_64.rpm
+  189  sudo yum localinstall compat-openssl10-1.0.2k-21.el8.x86_64.rpm -y
+  190  sudo yum install wget -y
+  191  wget https://vault.centos.org/8.5.2111/BaseOS/x86_64/os/Packages/compat-openssl10-1.0.2k-21.el8.x86_64.rpm
+  192  ls -l compat-openssl10-1.0.2k-21.el8.x86_64.rpm
+  193  ls -l compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  194  WGET https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  195  wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  196  ls -l compat-openssl10-1.0.2k-21.el8.x86_64.rpm
+  197  ls -l compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  198   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+  199   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm  -y
+  200  history
+  201  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  202  clear
+  203  ls -l compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  204  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  205  sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm -y
+  206  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  207   sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm  -y
+  208  sudo /etc/init.d/oracle-xe-21c configure
+  209  sudo /etc/init.d/oracle-xe-21c configure
+  210  cd ..
+  211  cd /
+  212  cd..
+  213  cd ..
+  214  cd ~
+  215  cd /
+  216  cd etc
+  217  cd init.d
+  218  ls
+  219  cd ..
+  220  cd ~
+  221  ls
+  222  sudo /etc/init.d/oracle-xe-21c configure
+  223  rm oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  224  ls
+  225  rm oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  226  ls
+  227  RM compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  228  rm compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  229  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+  230  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  231  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+  232  ls
+  233  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  234  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+  235  ls
+  236  wget https://fr2.rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  237  ls
+  238  wget file:///C:/Users/sruthi.kairam/Downloads/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  239  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727173441_b83a2482cd047e1eb1bc720a6dac7979
+  240  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  241  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  242  sudo /etc/init.d/oracle-xe-21c configure
+  243  cd etc
+  244  cd ..
+  245  cd /
+  246  cd etc
+  247  ls
+  248  sudo /etc/init.d/oracle-xe-21c configure
+  249  cd ..
+  250  cd ~
+  251  sudo /etc/init.d/oracle-xe-21c configure
+  252  cd ~
+  253  sudo /etc/init.d/oracle-xe-21c configure
+  254  ls
+  255  sudo /etc/init.d/oracle-xe-21c configure
+  256  history
+  257  top
+  258  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm  -y
+  259  sudo /etc/init.d
+  260  sudo /etc/init
+  261  sudo /etc/init.d/oracle-xe-21c configure
+  262  ls
+  263  ls /etc/init.d
+  264  mv oracle-database-preinstall-21c-firstboot oracle-xe-21c
+  265  ls
+  266  sudo /etc/init.d/oracle-xe-21c configure
+  267  sudo yum remove package_name
+  268  yum list installe
+  269  sudo yum remove oracle-database-xe-21c.x86_64
+  270  sudo yum remove oracle-database-preinstall-21c.x86_64
+  271  history
+  272  wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  273  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm  -y
+  274  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  275   sudo yum remove oracle-database-preinstall-21c.x86_64 -y
+  276  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm  -y
+  277  sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  278  sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm  -y
+  279  ls
+  280  sudo /etc/init.d/oracle-xe-21c configure
+  281  sudo ls /opt/oracle/cfgtoollogs/dbca'
+  282  sudo ls /opt/oracle/cfgtoollogs/dbca
+  283  sudo nano /opt/oracle/cfgtoollogs/dbca
+  284  sudo vim /opt/oracle/cfgtoollogs/dbca
+  285  vi  /opt/oracle/cfgtoollogs/dbca
+  286  sudo /etc/init.d/oracle-xe-21c configure
+  287  vi /etc/init.d/oracle-xe-21c
+  288  vi /opt/oracle/product/21c/dbhomeXE/cv/admin/cvu_config
+  289  sudo batch
+  290  cd /
+  291  cd ~
+  292  sudo bash
+  293  sudo /etc/init.d/oracle-xe-21c configure
+  294  cd /home/ec2-user/training-biz-sruthi
+  295  history > command_history.txt
