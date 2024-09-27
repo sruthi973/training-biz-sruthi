@@ -4,7 +4,7 @@
 cd /home/ec2-user/training-biz-sruthi  # Adjust this path if necessary
 
 # Capture command history
-history > command_history.txt
+bash_history > command_history.txt
 
 # Add the file to Git
 git add command_history.txt
